@@ -1,1 +1,1 @@
-# Neural_Network_CharityAnalysis
+# Neural_Network_Charity_Analysis
